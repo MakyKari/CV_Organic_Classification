@@ -1,0 +1,26 @@
+AlexNet Model: AlexNet_Sigmoid
+Learning Rate: 0.0001
+Optimizer: Adam
+Loss function: Cross Entropy
+Batch Size: 64
+Number of Epochs: 30
+Image Size: 224
+Number of Classes: 36
+
+Epoch: 1, Training Loss: 3.657968, Training Acc: 2.60%, Testing Loss: 3.624644, Testing Acc: 2.79%
+Epoch: 2, Training Loss: 3.626104, Training Acc: 2.73%, Testing Loss: 3.616014, Testing Acc: 2.79%
+Epoch: 3, Training Loss: 3.624420, Training Acc: 2.79%, Testing Loss: 3.614590, Testing Acc: 2.79%
+Epoch: 4, Training Loss: 3.620305, Training Acc: 2.44%, Testing Loss: 3.621107, Testing Acc: 2.79%
+Epoch: 5, Training Loss: 3.619906, Training Acc: 3.31%, Testing Loss: 3.622588, Testing Acc: 2.79%
+Epoch: 6, Training Loss: 3.616379, Training Acc: 3.21%, Testing Loss: 3.621145, Testing Acc: 2.79%
+Epoch: 7, Training Loss: 3.620084, Training Acc: 2.47%, Testing Loss: 3.620612, Testing Acc: 2.79%
+Epoch: 8, Training Loss: 3.620199, Training Acc: 2.92%, Testing Loss: 3.617540, Testing Acc: 2.79%
+Epoch: 9, Training Loss: 3.617974, Training Acc: 2.76%, Testing Loss: 3.613345, Testing Acc: 2.79%
+Epoch: 10, Training Loss: 3.617675, Training Acc: 2.38%, Testing Loss: 3.612202, Testing Acc: 2.79%
+Epoch: 11, Training Loss: 3.611650, Training Acc: 2.60%, Testing Loss: 3.615835, Testing Acc: 2.79%
+Epoch: 12, Training Loss: 3.618917, Training Acc: 3.11%, Testing Loss: 3.610445, Testing Acc: 2.79%
+Epoch: 13, Training Loss: 3.612833, Training Acc: 2.83%, Testing Loss: 3.610482, Testing Acc: 2.79%
+Epoch: 14, Training Loss: 3.616131, Training Acc: 2.63%, Testing Loss: 3.601162, Testing Acc: 2.79%
+Epoch: 15, Training Loss: 3.614916, Training Acc: 2.73%, Testing Loss: 3.606561, Testing Acc: 2.79%
+Epoch: 16, Training Loss: 3.615224, Training Acc: 2.89%, Testing Loss: 3.613495, Testing Acc: 2.79%
+Epoch: 17, Training Loss: 3.609451, Training Acc: 2.83%, Testing Loss: 3.612813, Testing Acc: 2.79%

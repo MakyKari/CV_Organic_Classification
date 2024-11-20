@@ -1,0 +1,40 @@
+Model: AlexNet_ReLU_L2
+Learning Rate: 0.0001
+Optimizer: Adam
+Loss function: Cross Entropy
+Batch Size: 64
+Number of Epochs: 30
+Image Size: 224
+Number of Classes: 36
+
+Epoch: 1, Training Loss: 3.4865, Training Acc: 3.66%, Testing Loss: 3.2790, Testing Acc: 5.29%
+Epoch: 2, Training Loss: 3.2229, Training Acc: 7.38%, Testing Loss: 3.0431, Testing Acc: 8.64%
+Epoch: 3, Training Loss: 3.0277, Training Acc: 11.11%, Testing Loss: 2.5591, Testing Acc: 20.06%
+Epoch: 4, Training Loss: 2.6047, Training Acc: 20.83%, Testing Loss: 2.1457, Testing Acc: 31.48%
+Epoch: 5, Training Loss: 2.3892, Training Acc: 25.39%, Testing Loss: 1.9413, Testing Acc: 39.83%
+Epoch: 6, Training Loss: 2.2551, Training Acc: 29.41%, Testing Loss: 1.7770, Testing Acc: 42.90%
+Epoch: 7, Training Loss: 2.0958, Training Acc: 34.22%, Testing Loss: 1.6481, Testing Acc: 47.35%
+Epoch: 8, Training Loss: 2.0200, Training Acc: 35.51%, Testing Loss: 1.4529, Testing Acc: 52.92%
+Epoch: 9, Training Loss: 1.9256, Training Acc: 39.42%, Testing Loss: 1.4567, Testing Acc: 56.27%
+Epoch: 10, Training Loss: 1.8680, Training Acc: 40.58%, Testing Loss: 1.3003, Testing Acc: 59.61%
+Epoch: 11, Training Loss: 1.7735, Training Acc: 44.65%, Testing Loss: 1.1739, Testing Acc: 61.84%
+Epoch: 12, Training Loss: 1.6912, Training Acc: 47.58%, Testing Loss: 1.1504, Testing Acc: 62.95%
+Epoch: 13, Training Loss: 1.6353, Training Acc: 49.41%, Testing Loss: 1.1356, Testing Acc: 64.90%
+Epoch: 14, Training Loss: 1.5285, Training Acc: 51.97%, Testing Loss: 0.9371, Testing Acc: 69.08%
+Epoch: 15, Training Loss: 1.4865, Training Acc: 52.39%, Testing Loss: 0.8823, Testing Acc: 74.37%
+Epoch: 16, Training Loss: 1.3858, Training Acc: 56.28%, Testing Loss: 0.7902, Testing Acc: 78.55%
+Epoch: 17, Training Loss: 1.2971, Training Acc: 58.56%, Testing Loss: 0.7068, Testing Acc: 79.11%
+Epoch: 18, Training Loss: 1.2602, Training Acc: 60.39%, Testing Loss: 0.6909, Testing Acc: 79.67%
+Epoch: 19, Training Loss: 1.1575, Training Acc: 62.09%, Testing Loss: 0.6145, Testing Acc: 79.94%
+Epoch: 20, Training Loss: 1.1179, Training Acc: 63.60%, Testing Loss: 0.6124, Testing Acc: 83.57%
+Epoch: 21, Training Loss: 1.0462, Training Acc: 65.49%, Testing Loss: 0.5143, Testing Acc: 86.07%
+Epoch: 22, Training Loss: 0.9785, Training Acc: 68.38%, Testing Loss: 0.4812, Testing Acc: 88.02%
+Epoch: 23, Training Loss: 0.8890, Training Acc: 70.98%, Testing Loss: 0.4692, Testing Acc: 85.24%
+Epoch: 24, Training Loss: 0.8251, Training Acc: 72.68%, Testing Loss: 0.4427, Testing Acc: 86.91%
+Epoch: 25, Training Loss: 0.8214, Training Acc: 73.74%, Testing Loss: 0.4339, Testing Acc: 88.02%
+Epoch: 26, Training Loss: 0.7197, Training Acc: 76.92%, Testing Loss: 0.3901, Testing Acc: 89.42%
+Epoch: 27, Training Loss: 0.6953, Training Acc: 77.14%, Testing Loss: 0.3376, Testing Acc: 89.97%
+Epoch: 28, Training Loss: 0.6043, Training Acc: 80.26%, Testing Loss: 0.3508, Testing Acc: 90.25%
+Epoch: 29, Training Loss: 0.5734, Training Acc: 80.39%, Testing Loss: 0.2913, Testing Acc: 92.76%
+Epoch: 30, Training Loss: 0.5119, Training Acc: 82.95%, Testing Loss: 0.2846, Testing Acc: 92.48%
+
